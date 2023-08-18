@@ -1,1 +1,1 @@
-print('fin login')
+print('fin logi')
